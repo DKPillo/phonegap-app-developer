@@ -33,4 +33,5 @@ platforms/wp8/*.suo
 platforms/wp8/*.csproj.user
 
 # res
+.project
 resources/signing
